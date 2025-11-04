@@ -1,0 +1,166 @@
+﻿STT;Tên biến;Việt Nam;English;Indonesia
+0;clearDataSuccess;Xóa dữ liệu thành công;Xóa dữ liệu thành công;Xóa dữ liệu thành công
+1;timeOutAuth;Đã hết thời gian xác thực;Đã hết thời gian xác thực;Đã hết thời gian xác thực
+2;isWaitingAuth;Đang đợi xác thực;Đang đợi xác thực;Đang đợi xác thực
+3;loginWithGooogle;Đăng nhập với Google;Đăng nhập với Google;Đăng nhập với Google
+4;loginWithApple;Đăng nhập với Apple;Đăng nhập với Apple;Đăng nhập với Apple
+5;khoangThach;Khoáng thạch;Khoáng thạch;Khoáng thạch
+6;inputYourKey;Nhập phím bạn muốn gán;Nhập phím bạn muốn gán;Nhập phím bạn muốn gán
+7;downloadingData;ĐANG TẢI...;Đang tải dữ liệu vui lòng đợi;Đang tải dữ liệu vui lòng đợi
+8;changingMap;Đang tải khu vực, vui lòng đợi;Đang tải khu vực, vui lòng đợi;Đang tải khu vực, vui lòng đợi
+9;fullName;Họ và tên;Họ và tên;Họ và tên
+10;CCCD;CCCD;CCCD;CCCD
+11;birthday;Ngày sinh;Ngày sinh;Tanggal lahir
+12;phone;Số điện thoại;Số điện thoại;Nomor telepon
+13;invalidDate;Ngày sinh không hợp lệ;Invalid date of birth;Tanggal lahir tidak valid
+14;checkTextByLength; quá ngắn; quá ngắn; quá ngắn
+15;email;Email;Email;Email
+16;invalid; không hợp lệ; không hợp lệ; không hợp lệ
+17;confirmDeleteAccount;Bạn có muốn xóa vĩnh viễn tài khoản này không?;Do you want to permanently delete this account?;Apakah Anda ingin menghapus akun ini secara permanen?
+18;OK;OK;OK;OK
+19;create;Tạo;Create;Buat
+20;friend;Bạn bè;Friend;Teman
+21;friend_request;Lời mời kết bạn;Friend request;Permintaan pertemanan
+22;level;Cấp;Level;Level
+23;SORT;Sắp xếp;Sort;Sortir
+24;trangbi;Trang bị;Equipment;Perlengkapan
+25;low;Thấp;Low;Rendah
+26;high;Cao;High;Tinggi
+27;change_account;Đổi tài khoản;Select account;Pilih akun
+28;logout;Đăng xuất;Log out;Keluar
+29;deleteAccount;Xoá tài khoản;Delete account;Hapus akun
+30;register;Đăng ký;Register;Daftar
+31;remember;Lưu tài khoản;Remember;Ingat
+32;password;Mật khẩu;Password;Kata sandi
+33;downloading_data;Đang tải;Downloading;Mengunduh
+34;CLOSE;Đóng;Close;Tutup
+35;msg;Tin nhắn;Message;Pesan
+36;CANCEL;Hủy;Cancel;Batal
+37;PLEASEWAIT;Xin chờ;Please wait;Harap tunggu
+38;GETOUT;Lấy ra;Move to Equipment;Keluar
+39;zone;Khu vực;Zone;Zona
+40;miss;Hụt;Miss;Meleset
+41;ACCEPT;Đồng ý;Accept;Terima
+42;BUY;Mua;Buy;Beli
+43;GETIN;Cất vào;Deposit;Simpan
+44;TYPE_KHO;null;null;null
+45;SELECT;Chọn;Select;Pilih
+46;BACK;Đóng;Back;Kembali
+47;FIX;Sửa;Fix;Perbaiki
+48;restoration;Khôi phục;Restore;Pulihkan
+49;YES;Có;Yes;Ya
+50;NO;Không;No;Tidak
+51;HP;HP;HP;HP
+52;KI;KI;KI;KI
+53;huy;Hủy;Cancel;Batal
+54;inventory_Pass;Mã bảo vệ;Inventory Password;Kata Sandi Inventaris
+55;num;Số lượng;Quantity;Jumlah
+56;DONT_HAVE_ITEM_HEAL;Bạn không có vật phẩm hồi máu;You don't have healing items;Anda tidak memiliki item penyembuh
+57;NAME_GAME;Đại chiến Ninja;Ninja Battle;Pertempuran Ninja
+58;tabFriendDefault;Danh sách bạn bè trống|Chưa có lời mời kết bạn;Friend list is empty|No friend requests yet;Daftar teman kosong|Belum ada permintaan pertemanan
+59;PARTY_OPTION_GET_ITEM;Trưởng nhóm|Ngẫu nhiên|Tự do;Leader|Random|Free;Pemimpin|Acak|Bebas
+60;PK_OPTION;Hòa bình|Chiến đấu 1|Chiến đấu 2|Chiến đấu 3|Đồ sát;Peace|Combat 1|Combat 2|Combat 3|Slaughter;Damai|Pertarungan 1|Pertarungan 2|Pertarungan 3|Pembantaian
+61;typeRefined;Bạc khoáng|Vàng khoáng|Bạch ngân khoáng|Hoàng ngân khoáng;Silver ore|Gold ore|Platinum ore|Imperial ore;Bijih perak|Bijih emas|Bijih platinum|Bijih imperial
+62;giaoDich;null;null;null
+63;lvCurrent;Cấp hiện tại;Current level;Level saat ini
+64;notInfo;Chưa có thông tin;No information yet;Belum ada informasi
+65;upgradeFailNotDown;Cường hóa thất bại, trang bị không bị giảm cấp;Enhancement failed, equipment level not reduced;Peningkatan gagal, peralatan tidak diturunkan levelnya
+66;upgradeFail;Cường hóa thất bại;Enhancement failed;Peningkatan gagal
+67;upgradeSuccess;Cường hóa thành công;Enhancement successful;Peningkatan berhasil
+68;chooseItemUpgradeExtractRefined;Chọn trang bị cường hóa|Chọn trang bị tinh luyện|Chọn khoáng thạch|Chọn khoáng thạch;Choose enhancement equipment|Choose refining equipment|Choose ore|Choose ore;Pilih peralatan peningkatan|Pilih peralatan pemurnian|Pilih bijih|Pilih bijih
+69;upgradeExtractRefined;Cường hóa|Tinh luyện|Chiết xuất|Nâng cấp đá;Enhance|Refine|Extract|Upgrade gem;Tingkatkan|Murnikan|Ekstrak|Tingkatkan permata
+70;percentSucess;Tỉ lệ thành công;Success rate;Tingkat keberhasilan
+71;findSuccess;Đã tìm được;Found successfully;Berhasil ditemukan
+72;outAllGroupSucess;Bạn đã giải tán nhóm;You have disbanded the party;Anda telah membubarkan kelompok
+73;gem;Ngọc;Gem;Permata
+74;gemLock;Ngọc khóa;Locked gem;Permata terkunci
+75;pickYourMoneyCallBackParty;Sử dụng 1 Ngọc hoặc 1 Ngọc khóa để triệu hồi;Use 1 Gem or 1 Locked Gem to summon;Gunakan 1 Permata atau 1 Permata Terkunci untuk memanggil
+76;youRemovedParty;Bạn đã bị loại khỏi nhóm;You have been removed from the party;Anda telah dikeluarkan dari kelompok
+77;confirmOutParty;Bạn có muốn rời nhóm không?;Do you want to leave the party?;Apakah Anda ingin meninggalkan kelompok?
+78;outParty;Rời nhóm;Leave party;Tinggalkan kelompok
+79;addPlayer;Thêm người;Add player;Tambah pemain
+80;confirmAllOutParty;Bạn có muốn giải tán nhóm không?;Do you want to disband the party?;Apakah Anda ingin membubarkan kelompok?
+81;callBack;Triệu hồi;Summon;Panggil
+82;searchParty;Nhập tên hoặc ID;Enter name or ID;Masukkan nama atau ID
+83;invite;Mời;Invite;Undang
+84;inviteWord;Mời thế giới;Invite world;Undang dunia
+85;inviteAll;Mời tất cả;Invite all;Undang semua
+86;autoAccept;Tự động đồng ý;Auto accept;Terima otomatis
+87;getItem;Nhặt vật phẩm;Pick up item;Ambil item
+88;outAll;Giải tán;Disband;Bubarkan
+89;apply;Xin gia nhập;Apply to join;Minta bergabung
+90;applyAll;Xin tất cả;Apply all;Minta semua
+91;createGroup;Tạo nhóm;Create party;Buat kelompok
+92;group;Nhóm;Party;Kelompok
+93;skip;Bỏ qua;Skip;Lewati
+94;notCorrect;chưa đúng;not correct;belum benar
+95;repassword;Nhập lại mật khẩu;Re-enter password;Masukkan ulang kata sandi
+96;PLAESE_INPUT_NUMER;Vui lòng nhập số lượng đúng!;Please enter the correct quantity!;Harap masukkan jumlah yang benar!
+97;INPUT_NUM;Nhập số lượng;Enter quantity;Masukkan jumlah
+98;GETIN_MORE;Cất nhiều;Deposit multiple;Simpan banyak
+99;GETOUT_MORE;Lấy nhiều;Withdraw multiple;Ambil banyak
+100;gift;Phần thưởng;Reward;Hadiah
+101;MISSION_TYPE;Nhiệm vụ chính|Nhiệm vụ phụ|Nhiệm vụ hằng ngày|Nhiệm vụ sự kiện;Main mission|Side mission|Daily mission|Event mission;Misi utama|Misi sampingan|Misi harian|Misi acara
+102;reconnect;Mất kết nối với máy chủ, đang thử kết nối lại;Lost connection to server, attempting to reconnect;Kehilangan koneksi ke server, mencoba menyambung kembali
+103;disConnect;Mất kết nối với máy chủ, bạn sẽ trở lại màn hình đăng nhập;Lost connection to server, you will return to the login screen;Kehilangan koneksi ke server, Anda akan kembali ke layar masuk
+104;price;Giá;Price;Harga
+105;deleteItem;Vứt bỏ;Discard;Buang
+106;USE_WEAPON_TO_DO_SKILL;Cần sử dụng đúng vũ khí để xài kĩ năng;Must use the correct weapon to use the skill;Harus menggunakan senjata yang tepat untuk menggunakan keterampilan
+107;SHOP_TIEM_MI;Tiệm mì;Noodle shop;Toko mi
+108;SHOP_THO_REN;Thợ rèn;Blacksmith;Tukang besi
+109;revive;Hồi sinh;Revive;Hidupkan kembali
+110;serverClose;Máy chủ đang bảo trì, quay lại sau!;Server under maintenance, please come back later!;Server sedang dalam pemeliharaan, kembali lagi nanti!
+111;TAG_NAME_INVENTORY;TC|TTr|VK|PK|VP;TC|TTr|VK|PK|VP;TC|TTr|VK|PK|VP
+112;TOC_HE_DETAIL;Làng Lá thuộc Hỏa Quốc, các Shinobi sử dụng Hỏa thuật, do rèn luyện với lửa nên khả năng chịu đựng cao, sức sinh tồn dạng cao. Vũ khí Đại đao và Pháp khí.|Làng Cát nơi quanh năm luôn bị những cơn bão cát bao quanh. Để tránh những cơn bão, người dân ở đây am hiểu phong thuật. Khả năng sinh tồn trung bình. Vũ khí Quạt và Pháp khí.|Làng Mây là ngôi làng ẩn mình trong các đám mây, cuộc sống đầy bí ẩn, nơi ở luôn bị set tấn công, Shinobi ở làng nắm rõ Lôi Thuật, tấn công nhanh và dứt khoát. Vũ khí: Kiếm và Pháp khí.|Làng Đá nơi sinh sống cằn cỗi quanh những vùng núi cao. Am hiểu Thổ thuật, có sức phòng thủ mạnh mẽ, thường che chở cho các đồng đội. Vũ khí: vũ khí dài và Pháp khí.|Ẩn mình trong màn sương của Thuỷ quốc là Làng Sương Mù, Shinobi ở đây tinh thông Thuỷ thuật, có thể dùng dòng nước để tấn công và trị liệu. Vũ khí Phi tiêu lớn và Pháp khí.;Leaf Village in the Fire Nation, Shinobi use Fire techniques, trained with fire so they have high endurance and strong survivability. Weapons: Greatsword and Magic Tool.|Sand Village, surrounded by sandstorms year-round. To avoid storms, locals master Wind techniques. Average survivability. Weapons: Fan and Magic Tool.|Cloud Village, hidden among clouds, lives mysteriously, always under lightning attacks, Shinobi master Lightning techniques, attacking swiftly and decisively. Weapons: Sword and Magic Tool.|Stone Village, living in barren high mountains. Masters Earth techniques, with strong defense, often protecting teammates. Weapons: Long weapons and Magic Tool.|Hidden in the mist of the Water Nation is Mist Village, Shinobi excel in Water techniques, using water for attack and healing. Weapons: Large Shuriken and Magic Tool.;Desa Daun di Negara Api, Shinobi menggunakan teknik Api, dilatih dengan api sehingga memiliki daya tahan tinggi dan kemampuan bertahan yang kuat. Senjata: Pedang besar dan Alat Sihir.|Desa Pasir, dikelilingi badai pasir sepanjang tahun. Untuk menghindari badai, penduduk menguasai teknik Angin. Kemampuan bertahan rata-rata. Senjata: Kipas dan Alat Sihir.|Desa Awan, tersembunyi di antara awan, hidup penuh misteri, selalu diserang petir, Shinobi menguasai teknik Petir, menyerang cepat dan tegas. Senjata: Pedang dan Alat Sihir.|Desa Batu, hidup di pegunungan tinggi yang tandus. Menguasai teknik Tanah, memiliki pertahanan kuat, sering melindungi rekan tim. Senjata: Senjata panjang dan Alat Sihir.|Tersembunyi dalam kabut Negara Air adalah Desa Kabut, Shinobi mahir dalam teknik Air, menggunakan air untuk menyerang dan menyembuhkan. Senjata: Shuriken besar dan Alat Sihir.
+113;nameTocHe;Tất cả|Hoả|Phong|Lôi|Thổ|Thủy;All|Fire|Wind|Lightning|Earth|Water;Semua|Api|Angin|Petir|Tanah|Air
+114;username;Tên tài khoản;Username;Nama pengguna
+115;music;Nhạc;Music;Musik
+116;sound;Âm lượng;Volume;Volume
+117;option;Cấu hình;Option;Pilihan
+118;setting;Cài đặt;Settings;Pengaturan
+119;createChar;Tạo nhân vật;Create character;Buat karakter
+120;chooseChar;Chọn nhân vật;Choose character;Pilih karakter
+121;male;Nam;Male;Laki-laki
+122;female;Nữ;Female;Perempuan
+123;inputYourName;Tên nhân vật...;Character name...;Nama karakter...
+124;isLogining;Đang đăng nhập...;Logging in;Sedang masuk
+125;join;Vào;Join;Gabung
+126;info;Thông tin;Information;Informasi
+127;mission;Nhiệm vụ;Mission;Misi
+128;news;Tin tức;News;Berita
+129;SP;SP;SP;SP
+130;get;Nhận;Receive;Terima
+131;hsd;Hsd;Hsd;Hsd
+132;remove;Gỡ;Remove;Hapus
+133;lv;Cấp độ;Level;Level
+134;inventoryz;Hành trang;Inventory;Inventaris
+135;warehouse;Kho đồ;Warehouse;Gudang
+136;type;Loại;Type;Jenis
+137;intendedFor;Thuộc tính: ;Attribute: ;Atribut:
+138;TYPE_NON;Nón;Hat;Topi
+139;TYPE_VUKHI;Vũ khí;Weapon;Senjata
+140;TYPE_AO;Áo;Armor;Baju zirah
+141;TYPE_LIEN;Liền;Suit;Setelan
+142;TYPE_GANGTAY;Găng tay;Gloves;Sarung tangan
+143;TYPE_NHAN;Nhẫn;Ring;Cincin
+144;TYPE_QUAN;Quần;Pants;Celana
+145;TYPE_NGOCBOI;Ngọc bội;Jade;Giok
+146;TYPE_GIAY;Giày;Shoes;Sepatu
+147;TYPE_PHU;Phụ;Accessory;Aksesori
+148;TYPE_THUNUOI;Thú nuôi;Pet;Peliharaan
+149;TYPE_MATNA;Mặt nạ;Mask;Topeng
+150;TYPE_AOCHOANG;Áo choàng;Cloak;Jubah
+151;TYPE_GIATOC;Gia tộc;Clan;Klan
+152;TYPE_NGUYETNHAN;Nguyệt nhẫn;Moon ring;Cincin bulan
+153;TYPE_BIKIP;Bí kíp;Secret manual;Buku rahasia
+154;TYPE_HP;HP;HP;HP
+155;TYPE_MP;MP;MP;MP
+156;TYPE_EAT;Sử dụng;Use;Gunakan
+157;TYPE_MONEY;Tiền;Money;Uang
+158;TYPE_POTION;Vật phẩm;Item;Barang
+159;TYPE_POTION_QUEST;Vật phẩm nhiệm vụ;Quest item;Barang misi
+160;TYPE_ITEM;Nón|Vũ khí|Áo|Liền|Găng tay|Nhẫn|Quần|Ngọc bội|Giày|Phụ|Thú nuôi|Mặt nạ|Áo choàng|Gia tộc|Nguyệt nhẫn|Bí kíp|HP|MP|Sử dụng|Tiền|Vật phẩm|Vật phẩm nhiệm vụ;Hat|Weapon|Armor|Suit|Gloves|Ring|Pants|Jade|Shoes|Accessory|Pet|Mask|Cloak|Clan|Moon ring|Secret manual|HP|MP|Use|Money|Item|Quest item;Topi|Senjata|Baju zirah|Setelan|Sarung tangan|Cincin|Celana|Giok|Sepatu|Aksesori|Peliharaan|Topeng|Jubah|Klan|Cincin bulan|Buku rahasia|HP|MP|Gunakan|Uang|Barang|Barang misi
+161;login;Đăng nhập;Log in;Masuk
+162;xoadulieu;Xóa dữ liệu;Clear data;Hapus data
+163;notNull; không được bỏ trống!;must not be empty!;tidak boleh kosong!
+164;equip;Sử dụng;Equip;Mengalati

@@ -1,0 +1,1 @@
+- Gồm những hiệu ứng kèm theo frame của char như nhảy xoay
